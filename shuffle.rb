@@ -2,6 +2,7 @@
 # encoding: UTF-8
 
 =begin
+   A little change...
    This script shuffle songs list from spotify ('Copy HTML Link' option) 
    Paste HTML Link songs in spotity file and run:
    user@mypc$shuffle.rb spotify
