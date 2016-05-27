@@ -3,6 +3,7 @@
 
 =begin
    A little change...
+   Other test changes ...
    This script shuffle songs list from spotify ('Copy HTML Link' option) 
    Paste HTML Link songs in spotity file and run:
    user@mypc$shuffle.rb spotify
